@@ -1,70 +1,24 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Carte IronMon Challenge
 
-## Available Scripts
+Cette carte interactive est destinée au défi IronMon dans Pokémon HeartGold et SoulSilver. La carte vous permet de suivre votre progression et de marquer les emplacements des Pokéballs et des dresseurs.
 
-In the project directory, you can run:
+## Inspiration
 
-### `npm start`
+Ce projet s'est inspiré du projet GitHub [FRLGIronmonMap](https://github.com/kelseyyoung/FRLGIronmonMap/) pour la carte IronMon Challenge dans Pokémon Rouge Feu et Vert Feuille.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Pour commencer
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Pour accéder à la carte IronMon Challenge, rendez-vous sur le lien suivant : [Carte IronMon Challenge](https://darkheartsxe.github.io/HGSSIronmonMap/)
 
-### `npm test`
+## Utilisation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Utiliser la carte IronMon Challenge est simple :
 
-### `npm run build`
+1. Cliquez sur les Pokéballs pour marquer les emplacements où vous avez récupéré des Pokéballs.
+2. Cliquez sur les dresseurs pour marquer les emplacements des dresseurs rencontrés.
+3. Vous pouvez sauvegarder votre progression et la charger ultérieurement.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+N'hésitez pas à explorer la carte et à suivre votre progression dans le défi IronMon Challenge dans Pokémon HeartGold et SoulSilver.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Bon défi IronMon !
